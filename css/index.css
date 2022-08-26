@@ -114,4 +114,10 @@ body {
     left: 110px;
 }
 
+@media only screen and (max-width: 768px) {
+    .nav-item{
+        display: none;
+    }
+}
+
 
